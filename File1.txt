@@ -3,3 +3,5 @@ This is First Git demo
 Change1 -> Another 500 line of code added
 
 Change2 -> Another 200 line of code added
+
+No New Idea
